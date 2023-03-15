@@ -1,0 +1,8 @@
+﻿  test.c
+C:\code\2023.3.15\test.c(19,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\code\2023.3.15\test.c(19,9): message : 请考虑在格式字符串中使用“%zu”
+C:\code\2023.3.15\test.c(20,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\code\2023.3.15\test.c(20,9): message : 请考虑在格式字符串中使用“%zu”
+C:\code\2023.3.15\test.c(21,9): warning C4477: “printf”: 格式字符串“%u”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“size_t”
+C:\code\2023.3.15\test.c(21,9): message : 请考虑在格式字符串中使用“%zu”
+  2023.3.15.vcxproj -> C:\code\2023.3.15\x64\Debug\2023.3.15.exe

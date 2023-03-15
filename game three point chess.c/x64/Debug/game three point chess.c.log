@@ -1,0 +1,3 @@
+﻿  game.c
+C:\code\game three point chess.c\game.c(206): warning C4715: “IsWin”: 不是所有的控件路径都返回值
+  game three point chess.c.vcxproj -> C:\code\game three point chess.c\x64\Debug\TicTacToe.exe
