@@ -1,6 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
-
+#include<limits.h>
 
 //输入两个整数
 //返回32位二进制不同位数的个数
@@ -24,4 +24,5 @@ int main()
 	printf("%d\n", count);
 	return 0;
 
+	INT_MAX
 }
